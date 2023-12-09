@@ -25,6 +25,10 @@ Often look better with the min composite mode.
 
 <img src="snapshots/inv.jpg" width="50%">
 
+-__Misc LUTs__ :        
+A "real fire" looking LUT, and a grey to black LUT, very feng shui.   
+<img src="snapshots/camp.jpg" width="50%">
+
 ## Multichannel LUTs :
 
 - __4 channels : k__
@@ -38,17 +42,22 @@ A bit less scientific but more vibrant and cool
 <img src="snapshots/noice.jpg" width="100%">
 
 - __3 channels : poc__
-Looks better and saturates less than pure Cyan Magenta Yellow
+Looks better and saturates less than pure Cyan Magenta Yellow     
 <img src="snapshots/poc.jpg" width="75%">
 
 - __3 channels : rgb__
-alternatives to pure red green blue
+alternatives to pure red green blue    
 <img src="snapshots/rgb.jpg" width="75%">
 
 - __2 channels : Brick and Teal__
-Cool looking pair
+Cool looking pair   
 <img src="snapshots/brick.jpg" width="50%">
 
+## Color coding LUTS :
+
+__Not__ made for image visualization but for temporal / depth color coded projections
+
+<img src="snapshots/proj.jpg" width="50%">
 
 
 
