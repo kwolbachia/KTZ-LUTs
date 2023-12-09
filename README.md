@@ -1,6 +1,6 @@
 # KTZ-LUTs
 
-handmade ImageJ / Fiji LUTs for microscopy, scientific good visualization and art.
+Handmade ImageJ / Fiji LUTs for microscopy, scientific good visualization and art.
 
 ## Colorful black to white LUTS ("bw") :     
 Cool for single channel images. Each as its own "vibe"    
@@ -46,7 +46,7 @@ Looks better and saturates less than pure Cyan Magenta Yellow
 <img src="snapshots/poc.jpg" width="75%">
 
 - __3 channels : rgb__
-alternatives to pure red green blue    
+Alternatives to pure red green blue    
 <img src="snapshots/rgb.jpg" width="75%">
 
 - __2 channels : Brick and Teal__
