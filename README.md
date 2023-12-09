@@ -2,6 +2,10 @@
 
 Handmade ImageJ / Fiji LUTs for microscopy, scientific good visualization and art.
 
+* __Installation :__
+	- in Fiji, add the __NeuroCyto LUTs__ [Update Site](https://imagej.net/update-sites/following)  (waiting for an update)
+	- For ImageJ, download this repository as .zip (green button top rigth), place .lut files in the lut directory of your ImageJ or Fiji application. (ImageJ/luts/)
+
 ## Colorful black to white LUTS ("bw") :     
 Cool for single channel images. Each as its own "vibe"     
  <img src="snapshots/bw.jpg" width="100%">
