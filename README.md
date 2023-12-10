@@ -57,7 +57,7 @@ Cool looking pair
 
 ## Color coding LUTS :
 
-__Not__ made for image visualization but for temporal / depth color coded projections
+__Not__ made for image visualization but for temporal / depth color coded projections.   
 <img src="snapshots/proj.jpg" width="50%">
 
 
