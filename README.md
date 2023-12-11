@@ -47,7 +47,7 @@ Looks better and saturates less than pure Cyan Magenta Yellow
 
 
 __3 channels : rgb__     
-Alternatives to pure red green blue    
+Alternatives to pure red green blue. The sum is white.    
 <img src="snapshots/rgb.jpg" width="75%">
 
 
